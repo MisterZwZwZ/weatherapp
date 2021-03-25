@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/style.css">
+    <script src="https://kit.fontawesome.com/9610070aa6.js" crossorigin="anonymous"></script>
+    <title>Météo </title>
+</head>
+<body>
+    <header>
+        <h1></h1>
+    </header>
+    <main>
+        <form>
+            <input type="text" id="form-input" placeholder="Entrez le nom d'une ville"/>
+            <button type="submit" id="form-button">Rechercher</button>
+        </form>
+        <div class="basic-info">
+            <div id="city"></div>
+            <div id="icon"></div>
+        </div>
+        <div class="detailled-info">
+            <div id="sky" class="box"><p id="sky-content"></p></div>
+            <div id="temp" class="box"><p id="temp-content"></p></div>
+            <div id="humidity" class="box"><p id="humidity-content"></p></div>
+            <div id="wind" class="box"><p id="wind-content"></p></div>
+        </div>
+
+
+    </main>
+    <footer>
+        <p>Data collected from openweathermap.org</p>
+    </footer>
+    <script src="scripts/app.js"></script>
+</body>
+
+
+</html>
