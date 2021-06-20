@@ -20,12 +20,6 @@ main{
     margin: 15px auto 15px auto;
 }
 
-footer{
-    position: fixed;
-    bottom: 0%;
-    color: black;
-}
-
 form {
     display: flex;
     width: 100%;
@@ -122,6 +116,7 @@ form {
     }
     #city{
         top: 15%;
+        font-size: 3.5rem;
     }
     #icon{
         top: 35%;
