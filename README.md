@@ -1,5 +1,5 @@
 # weatherapp
-A website displaying weather all around the world built with HTML, CSS and JavaScript.
+A website displaying weather informations from all around the world built with HTML, CSS and JavaScript.
 
 Please note that I am a self-taught beginner developper at this point, and that this project certainely has flaws. 
 Feel free to send me your thoughts, I am here to learn :) 
