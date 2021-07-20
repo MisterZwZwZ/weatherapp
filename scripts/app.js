@@ -1,4 +1,4 @@
-const APIKEY = '72bd0913075e0f967779e1c1b7926640'
+const APIKEY = 'yourAPIKeyGoesHere'
 
 let apiCall = function(city){
 
