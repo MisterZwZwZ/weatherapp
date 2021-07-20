@@ -4,8 +4,6 @@ A website displaying weather informations from all around the world built with H
 Please note that I am a self-taught beginner developper at this point, and that this project certainely has flaws. 
 Feel free to send me your thoughts, I am here to learn :) 
 
-To check the website : https://misterzwzwz.github.io/weatherapp/
-
 ## What is it ?
 Here is a website that can be used to have informations about weather all aroud the world. 
 After entering a city name, the website displays the name of the resquested location, a logo and a short text for sky description, the temperature, air humidity and wind speed.
